@@ -4,6 +4,9 @@ This project consists in a pair of glasses that when the infrared reflectance se
 
 # Material
 ·	ESP32
-·	LED
+
+·	LEDs
+
 ·	TCRT5000
+
 ·	Buzzer
