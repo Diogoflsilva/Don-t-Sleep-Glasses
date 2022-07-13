@@ -7,3 +7,6 @@ This project consists in a pair of glasses that when the infrared reflectance se
 * LEDs
 * TCRT5000
 * Buzzer
+
+# Circuit
+![Circuit](https://cdn.discordapp.com/attachments/958865240915841024/996731174741348393/unknown.png)
